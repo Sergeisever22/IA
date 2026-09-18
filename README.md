@@ -33,7 +33,7 @@ q1 --e--> q1
 
 Конечное состояние: `q1`.
 
-##Схема:
+## Схема:
 ![Фото 1](images/photo1.jpg)
 
 
@@ -41,20 +41,20 @@ q1 --e--> q1
 
 ### Принадлежат языку:
 
--`d`
--`de`
--`dee`
--`abcd`
--`abcde`
--`abcabcdeee`
+- `d`
+- `de`
+- `dee`
+- `abcd`
+- `abcde`
+- `abcabcdeee`
 
 ### Не принадлежат:
 
--`abc`
--`ab`
--`abd`
--`abcdeabc`
--`abcdd`
+- `abc`
+- `ab`
+- `abd`
+- `abcdeabc`
+- `abcdd`
 Например, для слова `abcde`:
 
 q0 → q2 → q3 → q0 → q1 → q1
