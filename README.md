@@ -63,8 +63,7 @@ q0 → q2 → q3 → q0 → q1 → q1
 Конечное состояние `q1`, поэтому слово принимается.
 
 ## Программная реализация
-
-`def finite_automaton(word):
+def finite_automaton(word):
     state = "q0"   
     
     transitions = {
@@ -121,7 +120,7 @@ def main():
 
 
 main()
-`
+
 
 ## Результат
 
