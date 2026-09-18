@@ -55,6 +55,7 @@ q1 --e--> q1
 - `abd`
 - `abcdeabc`
 - `abcdd`
+  
 Например, для слова `abcde`:
 
 q0 → q2 → q3 → q0 → q1 → q1
