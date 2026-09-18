@@ -64,10 +64,9 @@ q0 → q2 → q3 → q0 → q1 → q1
 
 ## Программная реализация
 
-def finite_automaton(word):
-    state = "q0"
-
-# Таблица переходов
+`def finite_automaton(word):
+    state = "q0"   
+    
     transitions = {
         "q0": {
             "a": "q2",
@@ -122,6 +121,7 @@ def main():
 
 
 main()
+`
 
 ## Результат
 
