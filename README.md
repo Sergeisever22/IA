@@ -123,6 +123,7 @@ def main():
 main()
 
 ##Результат
+
 ![Фото 2](images/photo2.png)
 
 ##Вывод
